@@ -1,0 +1,1 @@
+[27-Mar-2015 15:27:27 UTC] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/jyotirbilas/public_html/wp/wp-includes/functions.php on line 2663
